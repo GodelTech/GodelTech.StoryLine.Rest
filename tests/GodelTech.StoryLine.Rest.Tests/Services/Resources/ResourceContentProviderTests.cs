@@ -37,7 +37,7 @@ namespace GodelTech.StoryLine.Rest.Tests.Services.Resources
         [Fact]
         public void GetAsString_When_Resource_Name_Spacied_And_Exact_Match_Should_Return_Content_Matching_Test_Case_Name()
         {
-            _underTest.GetAsString("StoryLine.Rest.Tests.Services.Resources.ResourceContentProviderTests.Exact.json", true).Should().Be("{ \"aaa\" : \"aaa\" }");
+            _underTest.GetAsString("GodelTech.StoryLine.Rest.Tests.Services.Resources.ResourceContentProviderTests.Exact.json", true).Should().Be("{ \"aaa\" : \"aaa\" }");
         }
 
         [Fact]
