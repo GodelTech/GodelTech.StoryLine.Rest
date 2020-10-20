@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GodelTech.StoryLine.Rest", "src\GodelTech.StoryLine.Rest\GodelTech.StoryLine.Rest.csproj", "{00000000-0000-0000-0000-000000000001}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GodelTech.StoryLine.Rest.Tests", "tests\GodelTech.StoryLine.Rest.Tests\GodelTech.StoryLine.Rest.Tests.csproj", "{FD77EC4B-7E65-4C0C-8CC4-55A9ED12460B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GodelTech.StoryLine.Rest.Tests", "test\GodelTech.StoryLine.Rest.Tests\GodelTech.StoryLine.Rest.Tests.csproj", "{FD77EC4B-7E65-4C0C-8CC4-55A9ED12460B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
