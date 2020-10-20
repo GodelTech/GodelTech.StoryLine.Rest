@@ -7,7 +7,7 @@ using FluentAssertions;
 using GodelTech.StoryLine.Rest.Services;
 using GodelTech.StoryLine.Rest.Services.Http;
 using Xunit;
-using StLine = StoryLine;
+using StLine = GodelTech.StoryLine;
 
 namespace GodelTech.StoryLine.Rest.Tests.Services
 {

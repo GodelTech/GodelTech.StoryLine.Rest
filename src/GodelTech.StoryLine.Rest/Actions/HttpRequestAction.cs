@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic;
-using StoryLine.Contracts;
+using GodelTech.StoryLine.Contracts;
 using GodelTech.StoryLine.Rest.Services.Http;
 
 namespace GodelTech.StoryLine.Rest.Actions

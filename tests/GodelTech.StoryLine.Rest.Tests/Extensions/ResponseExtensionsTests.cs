@@ -1,6 +1,6 @@
 ﻿using System.Text;
 using FluentAssertions;
-using StoryLine.Exceptions;
+using GodelTech.StoryLine.Exceptions;
 using GodelTech.StoryLine.Rest.Extensions;
 using GodelTech.StoryLine.Rest.Services.Http;
 using Xunit;

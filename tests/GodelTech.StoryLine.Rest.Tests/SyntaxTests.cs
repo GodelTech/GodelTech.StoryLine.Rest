@@ -1,6 +1,5 @@
 ﻿using GodelTech.StoryLine.Rest.Actions;
 using GodelTech.StoryLine.Rest.Actions.Extensions;
-using StoryLine;
 
 namespace GodelTech.StoryLine.Rest.Tests
 {

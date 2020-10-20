@@ -6,7 +6,7 @@ using FluentAssertions;
 using Newtonsoft.Json.Schema;
 using GodelTech.StoryLine.Rest.Services.Http;
 using Xunit;
-using StLine = StoryLine;
+using StLine = GodelTech.StoryLine;
 
 namespace GodelTech.StoryLine.Rest.Tests.Services.Http
 {

@@ -1,6 +1,6 @@
 using System;
 using System.Text;
-using StoryLine.Exceptions;
+using GodelTech.StoryLine.Exceptions;
 using GodelTech.StoryLine.Rest.Services.Http;
 
 namespace GodelTech.StoryLine.Rest.Services

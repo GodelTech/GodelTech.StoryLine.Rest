@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Text;
-using StoryLine.Contracts;
-using StoryLine.Exceptions;
+using GodelTech.StoryLine.Contracts;
+using GodelTech.StoryLine.Exceptions;
 
 namespace GodelTech.StoryLine.Rest.Actions
 {

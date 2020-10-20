@@ -1,4 +1,4 @@
-﻿using StoryLine.Exceptions;
+﻿using GodelTech.StoryLine.Exceptions;
 using GodelTech.StoryLine.Rest.Services;
 using Xunit;
 

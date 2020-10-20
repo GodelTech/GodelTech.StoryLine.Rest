@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Net;
 using System.Text.RegularExpressions;
-using StoryLine.Contracts;
+using GodelTech.StoryLine.Contracts;
 using GodelTech.StoryLine.Rest.Expectations.Services;
 using GodelTech.StoryLine.Rest.Expectations.Services.Expectations;
 

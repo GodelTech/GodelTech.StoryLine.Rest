@@ -1,6 +1,6 @@
 using System;
-using StoryLine.Contracts;
-using StoryLine.Exceptions;
+using GodelTech.StoryLine.Contracts;
+using GodelTech.StoryLine.Exceptions;
 using GodelTech.StoryLine.Rest.Expectations.Services;
 using GodelTech.StoryLine.Rest.Expectations.Services.Expectations;
 using GodelTech.StoryLine.Rest.Services.Http;

@@ -1,4 +1,4 @@
-using StoryLine.Contracts;
+using GodelTech.StoryLine.Contracts;
 
 namespace GodelTech.StoryLine.Rest.Actions
 {
