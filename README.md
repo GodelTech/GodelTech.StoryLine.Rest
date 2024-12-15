@@ -1,3 +1,5 @@
+# GodelTech.StoryLine.Rest
+# Description
 Welcome to **GodelTech.StoryLine.Rest** library which is set of REST-specific actions and expectations for [GodelTech.StoryLine](https://github.com/GodelTech/GodelTech.StoryLine/wiki) framework.
 
 Primary purpose of this library subsystem and integration test development for REST services. Latest version of package can be found on Nuget.org using the following link to [GodelTech.StoryLine.Rest](https://www.nuget.org/packages/GodelTech.StoryLine.Rest/) package.
@@ -8,3 +10,6 @@ The following projects may be also useful during development of tests for REST s
 * [GodelTech.StoryLine.Rest.Coverage](https://github.com/GodelTech/GodelTech.StoryLine.Rest.Coverage/) tool can be used to measure REST API test coverage level.
 
 Please find more details regarding this library in [documentation](https://github.com/GodelTech/GodelTech.StoryLine.Rest/wiki).
+
+# License
+This project is licensed under the MIT License. See the LICENSE file for more details.
